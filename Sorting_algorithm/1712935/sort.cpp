@@ -1,4 +1,5 @@
 #include"sort.h"
+//this is school project
 void  SORT::case_sorted_assign(int n){
 	srand(time(NULL));
 	vector<int> bucket;
